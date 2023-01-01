@@ -1,0 +1,44 @@
+@import url('http://fonts.cdnfonts.com/css/avenir-lt-std');
+ 
+
+html{
+    font-family: 'Avenir LT Std', sans-serif !important;   
+}
+
+p{
+    margin: 0px !important;
+}
+
+.linkBtn{
+    padding: 20px; background-color: #3D3B3C; color: white;
+    text-decoration: none;
+    width:100%;
+    justify-content: center !important;
+    align-content: center !important;
+    text-align: center;
+    margin: 4px 0px;
+    max-width: 700px;
+}
+
+.linkBtn:hover{
+    border: 2.5px solid #3D3B3C;
+    background-color: white;
+    color: #3D3B3C;
+    padding: 17.5px;
+}
+
+.linkBtn1{
+    padding: 20px 6.67px; background-color: #3D3B3C; color: white;
+    text-decoration: none;
+    width: inherit;
+    text-align: center;
+    margin: 4px 0px;
+    max-width: 233.33px;
+}
+
+.linkBtn1:hover{
+    border: 2.5px solid #3D3B3C;
+    background-color: white;
+    color: #3D3B3C;
+    padding: 17.5px 4.17px;
+}
